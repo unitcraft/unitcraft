@@ -1,3 +1,5 @@
+[🇷🇺 Русский](README.ru.md) | **🇬🇧 English**
+
 # 👋 Hi, I'm Evgeny Golovin
 
 **Engineering Manager · Author of Nova Lang · Banking & Fintech · Remote across Russia**
